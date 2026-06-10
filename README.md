@@ -149,7 +149,3 @@ if (idade >= 18) {
 ⭐ Se gostou do projeto, considere deixar uma estrela no repositório.
 
 </div>
-
-🚀 Sempre aprendendo, sempre evoluindo.
-
-</div>
